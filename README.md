@@ -7,3 +7,9 @@ Anacondaのインストールまで:
 
 Jupyter, Jupyter lab を起動してからやること
 - [Python入門.ipynb](https://github.com/kuratanicde/2018nibbmtng/blob/master/Python%E5%85%A5%E9%96%80.ipynb) から .ipynb (「あいぱいそんのーとぶっく」)ファイルをダウンロードして、Jupyterの中から開く
+
+## 1日目アンケート(レポート代わりなので出してくださいね)
+https://forms.gle/1RNUPiyPAxw8p74AA
+
+## 2日目アンケート(1日目に出したものは無効にしますよ)
+https://forms.gle/22xHtePWbk2qxrVy5
