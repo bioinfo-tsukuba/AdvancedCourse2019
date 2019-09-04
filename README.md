@@ -33,6 +33,8 @@ Jupyter, Jupyter lab を起動してからやること
 
 ## ２日目３限　医療データ解析
 
+https://gist.github.com/rinabouk/12a7549c5f4f26a3949c4e5781dca07e
+
 ## ２日目４限　数理データ解析
 
 ## ２日目５限　ゲノムデータ解析
