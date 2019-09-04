@@ -39,7 +39,7 @@ https://gist.github.com/rinabouk/12a7549c5f4f26a3949c4e5781dca07e
 
 ## ２日目５限　ゲノムデータ解析
 
-
+[資料](https://www.dropbox.com/s/qc4cne0rtus6jns/20190904%205.%20%E3%82%B2%E3%83%8E%E3%83%A0%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90.pdf?dl=0)
 
 
 ## 1日目アンケート(レポート代わりなので出してくださいね)
